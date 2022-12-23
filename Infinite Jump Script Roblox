@@ -5,7 +5,7 @@ if _G.infinJumpStarted == nil
 	_G.infinJumpStarted = true
 	
 	
-	game.StarterGui:SetCore("SendNotification", {Title="By qw1dixx"; Text="Infinite Jump Script Ready!"; Duration=5;})
+	game.StarterGui:SetCore("SendNotification", {Title="Вступай в Дискорд Канал! (.gg/Etv8hF6A)"; Text="Твой Infinite Jump Готов!"; Duration=5;})
 
 	local plr = game:GetService('Players').LocalPlayer
 	local m = plr:GetMouse()
